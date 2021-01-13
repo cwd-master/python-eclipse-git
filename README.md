@@ -16,6 +16,4 @@ eclipse로 연동하는 파이썬 깃
     git config --global user.name "cwd-master"
     git config --global user.email "cwd-master@naver.com"
    
-'''
-<htm><head></head><body></body>
-'''
+***
