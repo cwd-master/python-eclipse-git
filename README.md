@@ -13,3 +13,5 @@ eclipse로 연동하는 파이썬 깃
 
 ### 주의사항
     ※ 문제될 수 있는 부분을 체크
+    git config --global user.name "cwd-master"
+    git config --global user.email "cwd-master@naver.com"
