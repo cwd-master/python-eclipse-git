@@ -10,3 +10,6 @@ eclipse로 연동하는 파이썬 깃
 6. git commit -m "commit message"
 7. git remote add origin URL
 8. git push 
+
+### 주의사항
+  ※ 문제될 수 있는 부분을 체크
